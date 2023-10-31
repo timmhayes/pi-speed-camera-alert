@@ -1,0 +1,18 @@
+{
+  "name": "pi-speed-camera-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rpio": "^2.4.2",
+    "serialport": "^12.0.0",
+    "usb": "^2.11.0"
+  }
+}

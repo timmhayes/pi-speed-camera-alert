@@ -1,0 +1,8 @@
+[
+  {"lat": 38.826552, "lng": -77.109072, "direction": 315, "name": "Hammond Westbound", "type": "speed", "limit": 25, "specialLimit": 15},
+  {"lat": 38.827777, "lng": -77.110762, "direction": 135, "name": "Hammond Eastbound", "type": "speed", "limit": 25, "specialLimit": 15},
+  {"lat": 38.832429, "lng" :-77.123727, "direction": 202, "name": "Beauregard Southbound", "type": "speed", "limit": 25, "specialLimit": 15},
+  {"lat": 38.829309, "lng" :-77.125229, "direction": 22, "name": "Beauregard Northbound", "type": "speed", "limit": 25, "specialLimit": 15},
+  {"lat": 38.817214, "lng": -77.057093, "direction": 175, "name": "Mt. Vernon Southbound", "type": "speed", "limit": 25, "specialLimit": 15},
+  {"lat": 38.813931, "lng": -77.056298, "direction": 355, "name": "Mt. Vernon Northbound", "type": "speed", "limit": 25, "specialLimit": 15}
+]
