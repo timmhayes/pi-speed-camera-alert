@@ -24,7 +24,7 @@ The GPS tracker uses the following hardware:
           - Neo-6M VCC -> RPi 5v
           - Neo-6M GND -> RPi GND
           - Neo-6M TX  -> RPi RX (GPIO 15)
-4. Install Node.js by following [these instructions](https://hassancorrigan.com/blog/install-nodejs-on-a-raspberry-pi-zero/). In hindsight I should have just written this in Python, but wanted to knock this out quickly and knew I could do it faster in Node. If I have time, I'll rewrite it in Python.
+4. Install Node.js by following the instructions for the ARMv6-based [Raspberry Pi Zero W](https://hassancorrigan.com/blog/install-nodejs-on-a-raspberry-pi-zero/) or these for the [Raspberry Pi Zero 2 W and newer boards](https://github.com/nodesource/distributions#debian-versions). In hindsight I should have just written this in Python, but wanted to knock this out quickly and knew I could do it faster in Node. If I have time, I'll rewrite it in Python.
 5. Clone this repository to your Pi and install dependencies:
 ```bash
 git clone https://github.com/timmhayes/pi-speed-camera-alert
